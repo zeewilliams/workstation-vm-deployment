@@ -89,10 +89,11 @@ Also verify:
 ## 📸 Screenshots
 
 | Description                    | Screenshot                     |
-|--------------------------------|--------------------------------|
-| Workstation joined to domain   | ![null](images/vm-domain.png) |
-| PowerShell script in action    | ![null](images/vm-script.png) |
-| Group Policy result            | ![null](images/vm-gpo.png)    |
+|---------------------------------|--------------------------------|
+| Workstation joined to domain    | ![Domain Screenshot](Nebula-User.png) |
+| PowerShell script in action     | ![PowerShell Screenshot](Powershell.png) |
+| Group Policy result             | ![GPO Result](GPO-DC.png)    |
+
 
 ---
 
