@@ -1,6 +1,6 @@
 # 🖥️ Workstation VM Deployment – Marvel Lab
 
-![null](images/vm-deployment-cover.png) <!-- Replace this with a cover image -->
+![null](avengers-cover.webp) <!-- Replace this with a cover image -->
 
 ---
 
